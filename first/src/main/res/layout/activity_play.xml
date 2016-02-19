@@ -1,0 +1,29 @@
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+              android:layout_width="match_parent"
+              android:layout_height="wrap_content"
+              android:orientation="vertical"
+>
+
+    <TextView
+            android:id="@+id/play_video"
+            android:paddingLeft="@dimen/dp_20"
+            android:gravity="center_vertical"
+            android:text="播放视频"
+            android:layout_width="fill_parent"
+            android:textColor="@color/black"
+            android:layout_height="@dimen/dp_40"/>
+    <View
+            android:layout_width="fill_parent"
+            android:layout_height="@dimen/dp_1"
+          android:background="@color/login_edit_line_bg"
+    ></View>
+    <TextView
+            android:id="@+id/play_audio"
+            android:paddingLeft="@dimen/dp_20"
+            android:gravity="center_vertical"
+            android:text="播放音频"
+            android:layout_width="fill_parent"
+            android:textColor="@color/black"
+            android:layout_height="@dimen/dp_40"/>
+
+</LinearLayout>
