@@ -62,7 +62,6 @@ public class TestListView extends BaseActivity {
         if(adapter == null){
             adapter = new MainAdapter(mContext,mDatas);
             listView.setAdapter(adapter);
-            //1111
         }else{
             adapter.notifyDataSetChanged();
         }
