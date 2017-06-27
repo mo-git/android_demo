@@ -9,8 +9,8 @@
         <option name="modules">
           <set>
             <option value="$PROJECT_DIR$" />
-            <option value="$PROJECT_DIR$/PullToRefreshLibrary" />
-            <option value="$PROJECT_DIR$/first" />
+            <option value="$PROJECT_DIR$/MyApp" />
+            <option value="$PROJECT_DIR$/MyUtils" />
           </set>
         </option>
         <option name="resolveModulePerSourceSet" value="false" />
