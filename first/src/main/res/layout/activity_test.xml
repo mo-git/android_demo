@@ -2,10 +2,10 @@
     android:layout_width="match_parent"
     android:layout_height="match_parent">
 
-    <com.mo.first.view.PullShowHeaderListView
+    <com.mo.first.view.CustomSearchListView
         android:id="@+id/list_view"
         android:layout_width="match_parent"
         android:layout_height="match_parent"
-        android:drawSelectorOnTop="true" />
+        />
 
 </FrameLayout>
