@@ -27,6 +27,8 @@ public class MainActivity extends BaseActivity implements AdapterView.OnItemClic
         super.onCreate(savedInstanceState);
         setContentLayout(R.layout.activity_main);
         initView();
+//111111111
+        mDatas.add("常用界面");
         mDatas.add("常用界面");
         mDatas.add("ListView");
         mDatas.add("GridView");
